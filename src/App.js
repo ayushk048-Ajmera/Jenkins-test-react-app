@@ -13,6 +13,7 @@ import HomePage from "pages/home";
 import CheckoutPage from "pages/checkout";
 import "assets/scss/style.scss";
 
+
 const App = () => {
   return (
     <AuthProvider>
